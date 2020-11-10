@@ -1,0 +1,47 @@
+html {
+  scroll-behavior: smooth;
+  margin-bottom: 500px;
+}
+
+body {
+  color: #333;
+}
+
+.card img {
+  max-height: 400px;
+  object-fit: cover;
+}
+
+section {
+  height: 500px;
+}
+
+section .list {
+  height: 550px;
+}
+
+.home .col {
+  margin-top: 8vw;
+}
+
+.home p {
+  font-size: 18px;
+}
+
+.home .btn {
+  background: #17a2b8;
+  color: white;
+}
+
+.about {
+  background: lightblue;
+}
+
+.about .row {
+  height: 300px;
+  overflow: hidden;
+}
+
+.kontak {
+  background: lightblue;
+}
